@@ -1,0 +1,96 @@
+.top-bennar {
+  display: flex;
+}
+.half-wight {
+  width: 50%;
+  padding: 5px;
+}
+.half-wight img {
+  width: 80%;
+  margin-left: 30px;
+}
+.h1-text-wi {
+  font-size: 60px;
+  margin: 0%;
+  padding: 0%;
+}
+.mar-top {
+  margin-top: 150px;
+  margin-left: 70px;
+}
+.Orange {
+  color: orange;
+}
+.btn {
+  text-decoration: none;
+  border: 0ch;
+  background-image: linear-gradient(orange, tomato);
+  width: 170px;
+  height: 60px;
+  border-radius: 20px;
+  color: white;
+  font-size: 20px;
+}
+.About-mar {
+  margin-top: 150px;
+}
+.About-p-wi {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.bennar-2 {
+  margin-top: 30px;
+  background-image: url(images/shapes/7.png);
+}
+.bennar-2 img {
+  height: 500px;
+  width: 300px;
+  margin-left: 180px;
+  padding-top: 50px;
+}
+.text-center {
+  text-align: center;
+}
+.card {
+  margin: 2%;
+  box-shadow: 10px 10px 20px 20px #bfbfbf;
+  border-radius: 20px;
+}
+.card p {
+  margin-right: 10%;
+}
+.card img {
+  margin-top: 30px;
+  width: 90%;
+}
+.mar-left {
+  margin-left: 25px;
+}
+.followere-item {
+  display: flex;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px 5px gray;
+  height: 180px;
+}
+.fo-item-1 {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.followere-item h1 {
+  font-size: 50px;
+  margin: 0%;
+  padding: 0%;
+  margin-top: 50px;
+}
+.footer {
+  text-align: center;
+  color: wheat;
+  background-color: black;
+  height: 200px;
+}
+.footer h1 {
+  padding-top: 3%;
+}
